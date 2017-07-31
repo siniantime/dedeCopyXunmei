@@ -1,7 +1,7 @@
 <?php
 $cfg_disable_funs = 'phpinfo,eval,exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source,file_put_contents';
 $cfg_disable_tags = 'php';
-$cfg_basehost = 'http://localhost';
+$cfg_basehost = 'http://localhost/dedeCopyXunmei/';
 $cfg_cmspath = '/dedeCopyXunmei';
 $cfg_cookie_encode = '4yPKitq5GCaXWWwN5KGltLDaET768a';
 $cfg_indexurl = '/dedeCopyXunmei';
@@ -103,7 +103,7 @@ $cfg_rewrite = 'N';
 $cfg_delete = 'Y';
 $cfg_keywords = '';
 $cfg_description = '';
-$cfg_beian = '';
+$cfg_beian = '111';
 $cfg_need_typeid2 = 'Y';
 $cfg_cache_type = 'id';
 $cfg_max_face = 50;
@@ -154,4 +154,7 @@ $cfg_memcache_mc_oth = '';
 $cfg_cross_sectypeid = 'N';
 $cfg_digg_update = 0;
 $cfg_feedback_guest = 'N';
+$cfg_headTxt = '<p>合作共赢、快速高效、优质的网站建设提供商</p>
+<h1>深圳网站建设</h1> ';
+$cfg_gonggao = '<b>迅美科技</b>: 迅美是一家专业深圳网站建设公司,七年的设计经验及各行业千余成功案例值得您的信赖,我们的理念是用实惠的价格、高效的建站速度完成质优的网站建设!';
 ?>
