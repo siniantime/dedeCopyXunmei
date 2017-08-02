@@ -1,7 +1,7 @@
 <?php
 $cfg_basehost = 'http://localhost';
 $cfg_cmspath = '/dedeCopyXunmei';
-$cfg_cookie_encode = '4yPKitq5GCaXWWwN5KGltLDaET768a';
+$cfg_cookie_encode = 'eMxvEwVAxPNPlNocpbucGBbSKcbkDBU';
 $cfg_indexurl = '/dedeCopyXunmei';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';

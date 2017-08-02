@@ -2,7 +2,7 @@
 //数据库连接信息
 $cfg_dbtype = 'mysql';
 $cfg_dbhost = 'localhost';
-$cfg_dbname = 'dedecmsXumei';
+$cfg_dbname = 'xunmei';
 $cfg_dbuser = 'root';
 $cfg_dbpwd = 'root';
 $cfg_dbprefix = 'dede_';
