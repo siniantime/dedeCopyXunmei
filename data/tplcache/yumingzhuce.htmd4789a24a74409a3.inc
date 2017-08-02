@@ -10,11 +10,13 @@ $z[3]=Array("field","",442,471);
 $z[3][4]['name']="keywords";
 $z[4]=Array("include","",585,620);
 $z[4][4]['filename']="head.htm";
-$z[5]=Array("global","",6338,6370);
+$z[5]=Array("global","",652,684);
 $z[5][4]['name']="cfg_templets_skin";
-$z[6]=Array("include","",6455,6491);
-$z[6][4]['filename']="right.htm";
-$z[7]=Array("include","",6526,6563);
-$z[7][4]['filename']="footer.htm";
+$z[6]=Array("global","",6494,6526);
+$z[6][4]['name']="cfg_templets_skin";
+$z[7]=Array("include","",6611,6647);
+$z[7][4]['filename']="right.htm";
+$z[8]=Array("include","",6682,6719);
+$z[8][4]['filename']="footer.htm";
 
 ?>

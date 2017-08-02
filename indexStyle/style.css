@@ -147,6 +147,10 @@ width:980px; margin:15px auto 0px;
 .news_01{
 width:237px; float:left; background-color:#fff; margin-right:10px; overflow:hidden;
 }
+
+.main_news>div:last-child{
+	margin-right: 0;
+}
 .news_title{
 width:237px; height:36px; background:url(../images/net2_03.jpg) no-repeat;
 }
